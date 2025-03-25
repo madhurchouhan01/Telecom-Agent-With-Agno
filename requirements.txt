@@ -1,3 +1,4 @@
 streamlit==1.43.2
 agno==1.1.17
 python-dotenv==1.0.1
+groq
